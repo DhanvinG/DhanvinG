@@ -1,5 +1,5 @@
 ### Hi there 👋
--My interests include robotics, drones, programming, AI, and debate!
+-My hobbies include robotics, drones, programming, AI, and debate!
 <!--
 **DhanvinG/DhanvinG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
