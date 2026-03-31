@@ -1,6 +1,7 @@
 ### Hi, I'm Dhanvin 👋
 
-I’m a student researcher and builder working at the intersection of **AI, accessibility, healthcare, and autonomous systems**.
+I am a high school student at [Thomas Jefferson High School for Science and Technology](https://tjhsst.fcps.edu/), where I focus on taking advanced computer science classes. I conduct applied biomedical engineering research (worked with labs at Harvard, Stanford, and MIT), and have built my own startup ([Swype AI](https://swypeai.tech/), [Cora](https://trycora.app/)) through [Residency Delta](//https://www.livetheresidency.com/). I am also involved in public advocacy, having spoken at the [United Nations Science Summit](https://www.linkedin.com/feed/update/urn:li:activity:7377806615422451712/) and the [U.S. Capitol](https://www.linkedin.com/feed/update/urn:li:activity:7374231965056671744/). I enjoy connecting with others in the technology and startup space and have had the opportunity to engage with leaders such as [Cory Levy](https://www.linkedin.com/feed/update/urn:li:activity:7389446670960193537/) (Founder of Z Fellows) and [Aaron Epstein](https://www.linkedin.com/feed/update/urn:li:activity:7426001804758327297/) (GP at Y Combinator). I have also grown initiatives such as the [International Research Olympiad](https://www.internationalresearcholympiad.org/) and the [Harvard Global Vision Conference](https://www.harvardghlc.com/).
+
 
 <!--
 **DhanvinG/DhanvinG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
