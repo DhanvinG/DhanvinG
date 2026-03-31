@@ -1,5 +1,7 @@
-### Hi there 👋
--My hobbies include robotics, drones, programming, AI, and debate!
+### Hi, I'm Dhanvin 👋
+
+I’m a student researcher and builder working at the intersection of **AI, accessibility, healthcare, and autonomous systems**.
+
 <!--
 **DhanvinG/DhanvinG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
